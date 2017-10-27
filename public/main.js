@@ -1,3 +1,4 @@
+console.log('in main.js');
 require.config({
     paths: {
         bootstrap: './vendor/bootstrap.min',
